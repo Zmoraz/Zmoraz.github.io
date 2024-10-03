@@ -10,7 +10,7 @@ paginate = 5
   contentTypeName = "posts"
   showMenuItems = 2
   fullWidthTheme = true
-  centerTheme = true
+  centerTheme = false
   showLanguageSelector = true
   autoCover = true
   
